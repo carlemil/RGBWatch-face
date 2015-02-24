@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCC Watch face</string>
+    <string name="decimal_rgb_name">Decimal RGB</string>
+    <string name="binary_rgb_name">Binary RGB</string>
+
+</resources>
